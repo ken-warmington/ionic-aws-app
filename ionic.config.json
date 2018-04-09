@@ -1,6 +1,6 @@
 {
   "name": "ionic-aws-app",
-  "app_id": "",
+  "app_id": "0f7579eb",
   "type": "ionic-angular",
   "integrations": {
     "cordova": {}
